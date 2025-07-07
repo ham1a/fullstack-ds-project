@@ -30,7 +30,7 @@ export default defineComponent({
   },
   computed: {
     greeting() {
-      return "Hello";
+      return "Front End Project";
     },
     buttonTextUser() {
       return "Go to Users";
